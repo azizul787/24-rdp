@@ -29,9 +29,3 @@ The notes are written in two styles together:
 3. At the end of every chapter, practice the **MCQ** and **short questions**.
 4. For math chapters, follow the **step-by-step solved problems** and try the practice problems yourself.
 5. The night before the exam, read only the **Quick Revision Card** at the end of each chapter.
-
----
-
-## Bonus material
-
-- [Business Statistics — Chapter 1](./2nd-Year/Business-Statistics/) — Made by mistake (not in your syllabus). Kept as bonus reference because some concepts overlap with Business Mathematics and Macro Economics.
