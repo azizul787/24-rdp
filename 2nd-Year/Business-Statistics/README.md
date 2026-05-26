@@ -1,6 +1,12 @@
-# Business Statistics — 2nd Year BBA (Management)
+# Business Statistics (Bonus / Reference Material)
 
-Subject Code: 222507 (NU)
+> **NOTE:** This subject is **NOT in your 2nd Year BBA Management syllabus.**
+> It was created earlier by mistake. Keeping it here as bonus material because
+> some concepts (data, average, dispersion, correlation) are similar to topics
+> in Business Mathematics and Macro Economics.
+>
+> If you don't need it, you can ignore this folder.
+
 Total Marks: 100
 
 ## Syllabus & Chapter List
