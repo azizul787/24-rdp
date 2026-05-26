@@ -7,7 +7,7 @@
 
 | # | Chapter | Topics | Status |
 |---|---------|--------|--------|
-| 1 | Set Theory | Sets, subsets, operations, Venn diagrams | Coming soon |
+| 1 | [Set Theory](./Chapter-01-Set-Theory.md) | Sets, subsets, operations, Venn diagrams | **Available** |
 | 2 | Number System & Logarithms | Real numbers, indices, surds, logarithm laws | Coming soon |
 | 3 | Equations | Linear, quadratic, simultaneous equations | Coming soon |
 | 4 | Inequalities and Absolute Value | Solving inequalities, modulus | Coming soon |
@@ -28,12 +28,22 @@
 | C | Math problems / Broad questions (any 5 of 8) | 12 | 60 |
 | | **Total** | | **100** |
 
-## How math chapters will be written
+## How math chapters are written
 
-Each chapter will have:
+Each chapter has:
 1. **Easy explanation** — concept in simple words
 2. **Formulas** — in a clean formula box
 3. **Solved examples** — step by step (Given → Required → Formula → Solution → Answer)
 4. **Practice problems** — for you to try
 5. **Short questions and MCQs**
 6. **Quick revision card**
+7. **Resources** — Book PDFs and YouTube videos
+
+## Recommended Books (PDF / Free)
+
+| Book | Author | Link |
+|------|--------|------|
+| Business Mathematics (most-used) | D. C. Sancheti & V. K. Kapoor | [Internet Archive](https://archive.org/search?query=business+mathematics+sancheti+kapoor) |
+| An Introduction to Business Mathematics | Reichel & Wickramasinghe | [ResearchGate (free)](https://www.researchgate.net/publication/338477453_An_Introduction_to_Business_Mathematics) |
+| Business Mathematics (BCIT Open Textbook) | BCIT | [Pressbooks (free)](https://pressbooks.bccampus.ca/businessmathematics/) |
+| Business Math: Step-by-Step Handbook | J. Olivier | [Open Textbook Library](https://open.umn.edu/opentextbooks/textbooks/642) |
