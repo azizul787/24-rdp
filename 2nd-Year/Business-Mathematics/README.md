@@ -1,49 +1,59 @@
-# Business Mathematics — 2nd Year BBA (Management)
+<div align="center">
 
-**Subject Code:** 222609
-**Total Marks:** 100
+# ব্যবসায় গণিত — Business Mathematics
 
-## Typical NU Syllabus
+### ২য় বর্ষ BBA (Management) &nbsp;|&nbsp; জাতীয় বিশ্ববিদ্যালয়
 
-| # | Chapter | Topics | Status |
-|---|---------|--------|--------|
-| 1 | [Set Theory](./Chapter-01-Set-Theory.md) | Sets, subsets, operations, Venn diagrams | **Available** |
-| 2 | Number System & Logarithms | Real numbers, indices, surds, logarithm laws | Coming soon |
-| 3 | Equations | Linear, quadratic, simultaneous equations | Coming soon |
-| 4 | Inequalities and Absolute Value | Solving inequalities, modulus | Coming soon |
-| 5 | Permutation and Combination | nPr, nCr, applications | Coming soon |
-| 6 | Sequence and Series | AP, GP, HP, sum formulas | Coming soon |
-| 7 | Matrix and Determinant | Operations, inverse, Cramer's rule | Coming soon |
-| 8 | Functions and Limits | Types of functions, limits | Coming soon |
-| 9 | Differentiation | Rules, business applications (MR, MC) | Coming soon |
-| 10 | Integration | Rules, business applications (TR, TC) | Coming soon |
-| 11 | Mathematics of Finance | Simple interest, compound interest, annuity | Coming soon |
+![Subject](https://img.shields.io/badge/বিষয়-ব্যবসায়%20গণিত-1f6feb?style=flat-square)
+![Code](https://img.shields.io/badge/কোড-222609-purple?style=flat-square)
+![Marks](https://img.shields.io/badge/মোট%20নম্বর-100-orange?style=flat-square)
+![Language](https://img.shields.io/badge/ভাষা-বাংলা-green?style=flat-square)
 
-## NU Exam Pattern (typical)
+[রেপো হোম](../../README.md) &nbsp;•&nbsp; [২য় বর্ষ](../README.md)
 
-| Section | Type | Marks each | Total |
-|---------|------|------------|-------|
-| A | Very Short / MCQ / Fill in the blanks | 1 | 20 |
-| B | Short Questions (any 5 of 8) | 4 | 20 |
-| C | Math problems / Broad questions (any 5 of 8) | 12 | 60 |
-| | **Total** | | **100** |
+</div>
 
-## How math chapters are written
+---
 
-Each chapter has:
-1. **Easy explanation** — concept in simple words
-2. **Formulas** — in a clean formula box
-3. **Solved examples** — step by step (Given → Required → Formula → Solution → Answer)
-4. **Practice problems** — for you to try
-5. **Short questions and MCQs**
-6. **Quick revision card**
-7. **Resources** — Book PDFs and YouTube videos
+## 📺 Rakib's Education — মূল প্লেলিস্ট
 
-## Recommended Books (PDF / Free)
+> সব ভিডিও এই একটা প্লেলিস্টে আছে। প্রতিটা অধ্যায়ের নোটের নিচে সরাসরি ভিডিও লিংক দেওয়া আছে।
 
-| Book | Author | Link |
-|------|--------|------|
-| Business Mathematics (most-used) | D. C. Sancheti & V. K. Kapoor | [Internet Archive](https://archive.org/search?query=business+mathematics+sancheti+kapoor) |
-| An Introduction to Business Mathematics | Reichel & Wickramasinghe | [ResearchGate (free)](https://www.researchgate.net/publication/338477453_An_Introduction_to_Business_Mathematics) |
-| Business Mathematics (BCIT Open Textbook) | BCIT | [Pressbooks (free)](https://pressbooks.bccampus.ca/businessmathematics/) |
-| Business Math: Step-by-Step Handbook | J. Olivier | [Open Textbook Library](https://open.umn.edu/opentextbooks/textbooks/642) |
+👉 **[সম্পূর্ণ প্লেলিস্ট দেখুন](https://www.youtube.com/playlist?list=PL9OIMope-OGVlKEHofZiHEALg8dyog8je)**
+
+---
+
+## অধ্যায় তালিকা
+
+| # | অধ্যায় | বিষয় | অবস্থা |
+|---|---------|-------|--------|
+| ১ | [সংখ্যা পদ্ধতি](./Chapter-01-Sangkha-Paddhati.md) | বাস্তব সংখ্যা, অমূলদ, বর্গ নির্ণয় | ✅ **সম্পন্ন** |
+| ২ | [সূচক ও লগারিদম](./Chapter-02-Suchak-O-Logarithm.md) | সূচকের নিয়ম, লগের সূত্র | ✅ **সম্পন্ন** |
+| ৩ | [সেট তত্ত্ব](./Chapter-03-Set-Tattwa.md) | সেট, অপারেশন, ভেনচিত্র | ✅ **সম্পন্ন** |
+| ৪ | [সরল রেখা](./Chapter-04-Saral-Rekha.md) | ঢাল, সমীকরণ, লম্ব | ✅ **সম্পন্ন** |
+| ৫ | [বিন্যাস ও সমাবেশ](./Chapter-05-Binyas-O-Samabes.md) | nPr, nCr, ব্যবহার | ✅ **সম্পন্ন** |
+| ৬ | [ধারা ও অনুক্রম](./Chapter-06-Dhara-O-Onukrom.md) | AP, GP, যোগফলের সূত্র | ✅ **সম্পন্ন** |
+| ৭ | [ম্যাট্রিক্স ও নির্ণায়ক](./Chapter-07-Matrix-O-Nirnayek.md) | অপারেশন, বিপরীত, ক্র্যামার | ✅ **সম্পন্ন** |
+
+---
+
+## পরীক্ষার প্রশ্নপত্রের ধরন (NU Pattern)
+
+| বিভাগ | ধরন | প্রতিটির নম্বর | মোট |
+|-------|-----|----------------|-----|
+| ক | MCQ / খুব ছোট প্রশ্ন | ১ | ২০ |
+| খ | সংক্ষিপ্ত প্রশ্ন (৮টির মধ্যে ৫টি) | ৪ | ২০ |
+| গ | গাণিতিক / রচনামূলক (৮টির মধ্যে ৫টি) | ১২ | ৬০ |
+| | **মোট** | | **১০০** |
+
+---
+
+## প্রতিটি অধ্যায়ে যা থাকবে
+
+1. 📖 **সহজ ব্যাখ্যা** — গল্পের ছলে বোঝানো
+2. 📐 **সূত্র বাক্স** — সব সূত্র এক জায়গায়
+3. ✏️ **ধাপে ধাপে সমাধান** — দেওয়া → নির্ণেয় → সূত্র → সমাধান → উত্তর
+4. 📝 **MCQ ব্যাংক** — ২০টি প্রশ্ন
+5. ❓ **সংক্ষিপ্ত প্রশ্ন** — ৪ নম্বরের জন্য
+6. ⭐ **দ্রুত পুনরালোচনা কার্ড** — পরীক্ষার আগের রাতে
+7. 📺 **Rakib's Education ভিডিও লিংক**
